@@ -1,4 +1,4 @@
-# White
+## White CodeMax
 
 ### A GitPitch Presentation Template
 
